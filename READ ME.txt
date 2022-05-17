@@ -1,4 +1,3 @@
-# STATION-HOSPITAL-MANAGEMENT-SYSTEM
 Don't forget to create a databse named 'station'and import the sql file.
 Doctor Login 
 Username : doctoramina
